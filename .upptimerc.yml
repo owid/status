@@ -7,8 +7,8 @@ sites:
     url: https://ourworldindata.org/
   - name: Data catalog (garden)
     url: https://catalog.ourworldindata.org/catalog-garden.feather
-  - name: Admin
-    url: https://owid.cloud/admin/charts/
+  - name: Admin (owid.cloud)
+    url: https://owid.cloud/api/health
 
 status-website:
   baseUrl: /status
