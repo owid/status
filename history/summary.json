@@ -36,21 +36,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Admin",
-    "url": "https://owid.cloud/admin/charts/",
+    "name": "Admin (owid.cloud)",
+    "url": "https://owid.cloud/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/owid.cloud.ico",
-    "slug": "admin",
+    "slug": "admin-owid-cloud",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {}
   }
 ]
