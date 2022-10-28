@@ -40,18 +40,19 @@
     "url": "https://owid.cloud/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/owid.cloud.ico",
     "slug": "admin-owid-cloud",
-    "status": "up",
-    "uptime": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 313,
-    "timeDay": 152,
-    "timeWeek": 368,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 411,
+    "timeDay": 919,
+    "timeWeek": 500,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
+      "2022-10-28": 0,
       "2022-10-24": 24
     }
   }
