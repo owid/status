@@ -1,7 +1,7 @@
 url: https://owid.cloud/api/health
-status: down
-code: 500
-responseTime: 2125
-lastUpdated: 2022-11-11T06:31:45.554Z
+status: up
+code: 200
+responseTime: 147
+lastUpdated: 2022-11-11T06:45:04.612Z
 startTime: Tue Oct 18 2022 08:06:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
